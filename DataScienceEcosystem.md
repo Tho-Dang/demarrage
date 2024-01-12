@@ -33,8 +33,8 @@ Table of Data Tools
 |Data Science tools|
 |:------------------|
 |      Jupyter     |
-|      Watson      |
-|      Oracle      |
+|      RStudio      |
+|      Anaconda      |
 
 ### Below are a few examples of evaluating arithmetic expressions in Python
 
